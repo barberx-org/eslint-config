@@ -1,6 +1,6 @@
 {
   "name": "@ubarber-org/eslint-config",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "private": false,
   "description": "ESlint configuration for uBarber projects.",
   "main": "./src/*",
