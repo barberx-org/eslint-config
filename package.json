@@ -2,7 +2,7 @@
   "name": "@ubarber-org/eslint-config",
   "version": "1.0.0",
   "private": false,
-  "description": "ESlint configuration for uBarber projects.",
+  "description": "ESlint settings used in uBarber projects.",
   "main": "./src/*",
   "license": "MIT",
   "repository": {
