@@ -1,9 +1,9 @@
 {
   "name": "@ubarber-org/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "ESlint settings used in uBarber projects.",
-  "main": "./src/*",
+  "main": "index.js",
   "license": "MIT",
   "repository": {
     "url": "ubarber-org/eslint-config"
