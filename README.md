@@ -5,6 +5,7 @@
 - React plugin;
 - React Hooks plugin;
 - JSX a11y plugin;
+- Node plugin;
 
 ## How can I use it in my projects?
 
