@@ -1,6 +1,6 @@
 {
   "name": "@ubarber-org/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "ESlint settings used in uBarber projects.",
   "main": "index.js",
